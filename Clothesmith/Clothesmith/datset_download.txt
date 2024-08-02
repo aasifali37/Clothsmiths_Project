@@ -1,0 +1,23 @@
+#installing kaggle
+!pip install q Kaggle
+from google.colab import files ,autoviz
+import pandas as pd
+import numpy as np
+
+files.upload() #upload kaggle key from your account
+
+!mkdir ~/.Kaggle
+
+!cp kaggle.json ~/.kaggle/
+
+! chmod 600 ~/.kaggle/kaggle.json
+
+!kaggle datasets download -d paramaggarwal/fashion-product-images-small
+
+!unzip fashion-product-images-small.zip
+
+
+
+
+
+
