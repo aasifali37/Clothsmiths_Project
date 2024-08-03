@@ -10,10 +10,10 @@ import matplotlib.image as mimg
 st.set_page_config(page_title="Clothsmiths", page_icon="butler-icon.png")
 
 # Load data
-data = pd.read_csv(r"D:\BCA Material\Research\AI ML Trainging\FashionRecm_3\Clothesmith\Clothesmith\data.csv")
+data = pd.read_csv(r"D:\BCA Material\Research\AI ML Trainging\Clothsmith Project\Clothsmiths_Project\Clothesmith\Clothesmith\data.csv")
 
 # Base folder path for images
-image_folder = r"D:\BCA Material\Research\AI ML Trainging\FashionRecm_3\images\images"
+image_folder = r"D:\BCA Material\Research\AI ML Trainging\Clothsmith Project\images\images"
 
 # Initialize session state variables
 if 'selected_image_path' not in st.session_state:

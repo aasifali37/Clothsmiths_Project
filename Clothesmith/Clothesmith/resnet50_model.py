@@ -26,8 +26,8 @@ model(dummy_input)
 
 # Load the precomputed embeddings and filenames
 
-embeddings_path = r'D:\BCA Material\Research\AI ML Trainging\FashionRecm_2\Clothesmith\Clothesmith\embeddings.pkl'
-filenames_path = r'D:\BCA Material\Research\AI ML Trainging\FashionRecm_2\Clothesmith\Clothesmith\filenames.pkl'
+embeddings_path = r'D:\BCA Material\Research\AI ML Trainging\Clothsmith Project\Clothsmiths_Project\Clothesmith\Clothesmith\embeddings.pkl'
+filenames_path = r'D:\BCA Material\Research\AI ML Trainging\Clothsmith Project\Clothsmiths_Project\Clothesmith\Clothesmith\filenames.pkl'
     
 
 with open(embeddings_path, 'rb') as f:
