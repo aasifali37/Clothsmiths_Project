@@ -42,5 +42,9 @@ This project implements a fashion recommendation system using a ResNet50 model. 
 - **Cloth-Smith.docx**: Detailed project report and documentation.
 - **step_by_step_installation_Dataset**: Detailed instructions for dataset installation.
 
+## Demonstraction
+[Demo](https://github.com/user-attachments/assets/67437927-3694-4e05-87ba-f99c149e49d3)
+
+
 For any questions or issues, please contact [kritbarnwal5004@gmail.com,aasifali0203@gmail.com].
 
